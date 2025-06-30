@@ -2,7 +2,7 @@
 <h3 align="center">A dabbler coder, studying at 42 (on the way finishing common core)</h3>
 
 <div align="center"> 
-  <img src="assets/load-loading.gif"/>   
+  <img src="assets/load-loading.gif" width="200"/>   
 </div>
 
 - 🌱 I’m currently learning **Networking, System administration, C++**
