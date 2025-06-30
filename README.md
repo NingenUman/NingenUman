@@ -1,5 +1,4 @@
 ![](./assets/github-header-image.png)
-<h1 align="center">Hi 👋, I'm UMan</h1>
 <h3 align="center">A professional dabbler coder, studying at 42 (on the way finishing common core)</h3>
 
 - 🌱 I’m currently learning **Networking, System administration, C++**
