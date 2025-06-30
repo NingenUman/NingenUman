@@ -1,9 +1,10 @@
 ![](./assets/github-header-image.png)
 <h3 align="center">A dabbler coder, studying at 42 (on the way finishing common core)</h3>
 
-<p align="center">
-  <img src="assets/load-loading.gif"/>
-</p>
+<div align="center"> 
+  <img src="assets/load-loading.gif" width=500/>   
+</div>
+
 - 🌱 I’m currently learning **Networking, System administration, C++**
 
 - 📫 How to reach me **manoarabenja@gmail.com**
