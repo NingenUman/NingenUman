@@ -1,3 +1,4 @@
+![Header]([./your-header-image-name.png](https://github.com/NingenUman/NingenUman/blob/main/assets/github-header-image.png))
 <h1 align="center">Hi 👋, I'm UMan</h1>
 <h3 align="center">A professional dabbler coder, studying at 42 (on the way finishing common core)</h3>
 
