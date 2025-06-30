@@ -2,10 +2,12 @@
   <img src="./assets/github-header-image.png" alt="Header Image">
 </p>
 <h3 align="center">👨‍💻 A dabbler coder, studying at 42 (on the way finishing common core)</h3>
+<br>
 
 <h3 align="left">Github contribution :
   <img src="https://github.com/NingenUman/NingenUman/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="github-snake-dark-theme">
 </h3>
+<br>
 
 <p style="text-align: left;">Cursus completion status :</p>
 <p style="text-align: center;">
