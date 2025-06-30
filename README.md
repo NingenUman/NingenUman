@@ -1,9 +1,8 @@
 ![](./assets/github-header-image.png)
 <h3 align="center">👨‍💻 A dabbler coder, studying at 42 (on the way finishing common core)</h3>
 <span></span>
-<p align="center">
+<h3 align="center"> My contribution flow: 
   <img src="https://github.com/NingenUman/NingenUman/blob/output/github-contribution-grid-snake.svg" alt="github-snake">
-</p>
 </h3>
 <div align="center"> 
   <img src="assets/load-loading.gif" width="200"/>   
