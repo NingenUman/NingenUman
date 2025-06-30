@@ -1,7 +1,7 @@
 ![](./assets/github-header-image.png)
 <h3 align="center">A dabbler coder, studying at 42 (on the way finishing common core)</h3>
-![loading animation](https://tenor.com/view/load-loading-now-loading-now-now-loading-gif-9461206761718007730)
 
+<h3 align="center">![loading animation](./assets/load-loading.gif)</h3>
 - 🌱 I’m currently learning **Networking, System administration, C++**
 
 - 📫 How to reach me **manoarabenja@gmail.com**
