@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm UMan</h1>
 <h3 align="center">A professional dabbler coder, studying at 42 (on the way finishing common core)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ningenuman" alt="ningenuman" /></a> </p>
-
 - 🌱 I’m currently learning **Networking, System administration, C++**
 
 - 📫 How to reach me **manoarabenja@gmail.com**
