@@ -1,7 +1,7 @@
 # 👨‍💻 NingenUman | Aspiring Code Craftsman
 
 <p align="center">
-  <img src="./assets/Banner.png" alt="Header Image" width="1000"
+  <img src="./assets/Banner.png" alt="Header Image" width="800"
        style="border-radius: 600px; border: 4px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </p>
 
