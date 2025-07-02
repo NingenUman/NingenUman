@@ -105,5 +105,8 @@ Let's geek out together! Find me on:
 - 📚 Always reading up on the latest tech trends to stay ahead of the curve.
 
 <p align="center">
-  <em>Thanks for stopping by! Let’s build something awesome together! 🚀</em>
+  <img src="./assets/roundbanner_end.png" alt="Closing Banner" width="600" style="border-radius: 50px; border: 3px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</p>
+<p align="center">
+  <em>Let's code the future together! ✨🚀</em>
 </p>
