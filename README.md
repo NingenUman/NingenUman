@@ -27,7 +27,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 </p>
 
 <p align="center">
-  <em>Together, may our code carve a tranquil path to tomorrow’s light. 🕉️</em>
+  <em>Watch my coding journey unfold through my GitHub activity!🕉️</em>
 </p>
 
 ---
@@ -108,5 +108,5 @@ Let's geek out together! Find me on:
   <img src="./assets/roundbanner_end.png" alt="Closing Banner" width="600" style="border-radius: 50px; border: 3px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </p>
 <p align="center">
-  <em>Let's code the future together! ✨🚀</em>
+  <em>Together, may our code carve a tranquil path to tomorrow’s light. 🕉️</em>
 </p>
