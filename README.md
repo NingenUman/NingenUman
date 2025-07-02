@@ -27,7 +27,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 </p>
 
 <p align="center">
-  <em>Watch my coding journey unfold through my GitHub activity!</em>
+  <em>Together, may our code carve a tranquil path to tomorrow’s light. 🕉️</em>
 </p>
 
 ---
