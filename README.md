@@ -104,11 +104,12 @@ Let's geek out together! Find me on:
 - ☕ Coffee is my coding fuel — black, no sugar.
 - 📚 Always reading up on the latest tech trends to stay ahead of the curve.
 
+<br>
+<br>
+<br>
 <p align="center">
   <img src="./assets/roundbanner_end.png" alt="Closing Banner" width="600" style="border-radius: 50px; border: 3px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </p>
-<br>
-<br>
 <p align="center">
   <em>Together, may our code carve a tranquil path to tomorrow’s light. 🕉️</em>
 </p>
