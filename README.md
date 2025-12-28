@@ -35,11 +35,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NingenUman&show_icons=true&theme=transparent&title_color=FF2E63&icon_color=00BFFF&text_color=D0A9F5&bg_color=0A0F2C&border_color=9C27B0&border_radius=20" alt="NingenUman's GitHub Stats" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NingenUman&layout=compact&theme=transparent&title_color=FF2E63&icon_color=00BFFF&text_color=D0A9F5&bg_color=0A0F2C&border_color=9C27B0&border_radius=20" alt="Top Languages" width="400"/>
+  <img src="https://raw.githubusercontent.com/NingenUman/NingenUman/metrics/github-metrics.svg" alt="NingenUman's GitHub Stats" width="600"/>
 </p>
 
 <p align="center">
