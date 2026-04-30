@@ -45,7 +45,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4b38a8c7-dd8d-4199-9eec-cb4ac20414d6" width="40" align="center">&nbsp;42 Cursus Progress
 <p align="center">
-  <img src="assets/load-loading.gif" width="200" alt="Loading GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBscm1paXc3YmhpaXhheTI0bGtueDNzeWlzYmhlbTBidHlseGNzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7hJZcKzjIufeOmqKSj/giphy.gif" width="200" alt="Loading GIF">
 </p>
 
 <p align="center">
