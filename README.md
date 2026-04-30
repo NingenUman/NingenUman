@@ -49,7 +49,7 @@ Hey there! I'm a dedicated developer honing my craft at [42](https://www.42.fr/)
 </p>
 
 <p align="center">
-  <em>🎓 42 Common Core Completed — On to the specialisation 🚀</em>
+  <em>🎓 42 Common Core Completed — On to the specialization 🚀</em>
 </p>
 
 ---
