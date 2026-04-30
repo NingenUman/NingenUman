@@ -1,4 +1,4 @@
-# 👨‍💻 NingenUman | Aspiring Code Craftsman
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="80" align="center">&nbsp; NingenUman | Aspiring Code Craftsman
 
 <p align="center">
   <img src="./assets/round_banner.png" alt="Header Image" width="800"
@@ -20,7 +20,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="40" align="center">&nbsp;Recent Contributions
+## <img src="https://user-images.githubusercontent.com/74038190/216656996-3949e8a6-24c0-4bdb-a78d-6b348bde0fcb.gif" width="40" align="center">&nbsp;Recent Contributions
 
 <p align="center">
   <img src="https://github.com/NingenUman/NingenUman/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake" width="600">
