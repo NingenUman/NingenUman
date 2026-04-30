@@ -32,7 +32,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="40" align="center">&nbsp; GitHub Stats
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="40" align="center">&nbsp;GitHub Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/NingenUman/NingenUman/metrics/github-metrics.svg" alt="NingenUman's GitHub Stats" width="600"/>
 </p>
@@ -43,8 +43,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 
 ---
 
-## ⏳ 42 Cursus Progress
-
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4b38a8c7-dd8d-4199-9eec-cb4ac20414d6" width="40" align="center">&nbsp;42 Cursus Progress
 <p align="center">
   <img src="assets/load-loading.gif" width="200" alt="Loading GIF">
 </p>
