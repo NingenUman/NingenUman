@@ -101,28 +101,23 @@ Here’s the tech stack I’m wielding and sharpening:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="40" align="center">&nbsp;Featured Projects
 Here are a few projects I'm proud of from my 42 journey and beyond:
-- **[ft_transcendence]**:
-  *Description*: A full-stack web application, delivering real-time game experience inside a social platform where users can:
-  * register and authenticate securely,
-  * play matches in the browser,
-  * manage friendships,
-  * chat with other users,
-  * and track their profile progression (stats and achievements).
-  *Tech Stack*: C++, Makefile, Sockets
+- **[ft_transcendence]**  
+  *Description*: A full-stack web application delivering a real-time game experience inside a social platform. Users can register securely, play matches in the browser, manage friendships, chat, and track profile progression.  
+  *Tech Stack*: TypeScript, NestJS, Vue/React, WebSockets  
   *Repo*: [https://github.com/arabeman/transcendence]
 
-- **[websserv]**:
-  *Description*: A custom HTTP/1.1 server implemented in C++98 using non-blocking I/O and multiplexing to handle multiple clients concurrently, complete with CGI routing.
-  *Tech Stack*: C++, Makefile, Sockets
+- **[webserv]**  
+  *Description*: A custom HTTP/1.1 server implemented in C++98 using non-blocking I/O and multiplexing to handle multiple clients concurrently, complete with CGI routing.  
+  *Tech Stack*: C++, Makefile, Sockets  
   *Repo*: [https://github.com/mr-akoton/webserv]
 
 - **[Cub3D]**  
-  *Description*: A C based project where you build a Wolfenstein 3D like game, focusing on raycasting and rendering.  
-  *Tech Stack*: C, Makefile, Minilibx
+  *Description*: A C-based project where you build a Wolfenstein 3D-like game, focusing on raycasting and rendering.  
+  *Tech Stack*: C, Makefile, Minilibx  
   *Repo*: [https://github.com/NingenUman/Cub3D_42]
 
 - **[so_long]**  
-  *Description*: A C based project where you create a 2D game, using Minilibx.  
+  *Description*: A C-based project where you create a 2D game, using Minilibx.  
   *Tech Stack*: C, Makefile, Minilibx  
   *Repo*: [https://github.com/NingenUman/so_long42]
 
