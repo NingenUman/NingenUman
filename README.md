@@ -62,8 +62,7 @@ Here’s the tech stack I’m wielding and sharpening:
 
 ---
 
-## 📂 Featured Projects
-
+## <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="40" align="center">&nbsp;Featured Projects
 Here are a few projects I'm proud of from my 42 journey and beyond:
 
 - **[Cub3D]**  
@@ -94,8 +93,7 @@ Let's geek out together! Find me on:
 
 ## 🌟 Fun Facts
 
-- 🕹️ I’m a fan of retro gaming and sometimes code mini-games for fun!
-- ☕ Coffee is my coding fuel — black, no sugar.
+- <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="40" align="center"> Coffee is my coding fuel — black, no sugar.
 - 📚 Always reading up on the latest tech trends to stay ahead of the curve.
 
 <br>
