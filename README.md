@@ -5,13 +5,13 @@
        style="border-radius: 600px; border: 4px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </p>
 
-<h3 align="center">🌟 A passionate dabbler coder, navigating the tech universe at 42, validated the Common Core!</h3>
+<h3 align="center">🌟 Passionate software developer navigating the tech universe at 42, having successfully validated the Common Core!</h3>
 
 ---
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="40" align="center">&nbsp;About Me
 
-Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving deep into the art & science of programming. I love experimenting with code, learning new tech, and building projects that spark joy and solve problems. When I'm not debugging or dreaming in C++, you can find me exploring the vast world of tech or sketching ideas for my next big project.
+Hey there! I'm a dedicated developer honing my craft at [42](https://www.42.fr/), having successfully completed the rigorous Common Core curriculum. I love experimenting with code, learning new technologies, and building projects that solve real-world problems. When I'm not debugging or dreaming in C++ / Python, you can find me exploring the vast tech landscape or sketching ideas for my next big project.
 
 - 🌱 **Currently mastering**: Networking, System Administration, and C++
 - 💡 **Passionate about**: Creating efficient, elegant solutions and learning new tools
@@ -85,7 +85,7 @@ Let's geek out together! Find me on:
 
 <p align="left">
   <a href="https://www.facebook.com/manu.rabenj" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" height="50" width="50" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/manoa-rabenja" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50" /></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" height="50" width="50" /></a>
 </p>
 
