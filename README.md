@@ -76,7 +76,7 @@ Here’s the tech stack I’m wielding and sharpening:
 **🗄️ Backend & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres&theme=dark" />
   </a>
 </p>
 
@@ -84,6 +84,13 @@ Here’s the tech stack I’m wielding and sharpening:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx&theme=dark" />
+  </a>
+</p>
+
+**📝 Productivity & Notes**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,obsidian&theme=dark" />
   </a>
 </p>
 
