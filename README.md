@@ -87,9 +87,9 @@ Here are a few projects I'm proud of from my 42 journey and beyond:
 Let's geek out together! Find me on:
 
 <p align="left">
-  <a href="https://www.facebook.com/manu.rabenj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/manu.rabenj" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 ---
