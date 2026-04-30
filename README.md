@@ -5,11 +5,17 @@
        style="border-radius: 600px; border: 4px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </p>
 
-<h3 align="center">🌟 A passionate dabbler coder, navigating the tech universe at 42, nearing the finish line of the Common Core!</h3>
+<h3 align="center">🌟 A passionate dabbler coder, navigating the tech universe at 42, validated the Common Core!</h3>
 
 ---
 
 ## 🚀 About Me
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc1NDkxMDgsIm5iZiI6MTc3NzU0ODgwOCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDMwVDExMzMyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyNWI4OWIyMTZhMGMzODRiMzQ2NjkyMzRkNGM5NWJjNjVkOWFjMzdlNzg2NTg1MDAzM2IxY2ZmNTk0ZDczYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.PP-HN6r7T-3grxtxrWV6ODcYMbiyY8s6QaByOVEyEqU" alt="User Image" width="400"
+       style="border-radius: 600px; border: 4px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+</p>
+
 
 Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving deep into the art & science of programming. I love experimenting with code, learning new tech, and building projects that spark joy and solve problems. When I'm not debugging or dreaming in C++, you can find me exploring the vast world of tech or sketching ideas for my next big project.
 
@@ -51,7 +57,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 </p>
 
 <p align="center">
-  <em>Grinding through the 42 Common Core — almost there! 🚀</em>
+  <em>🎓 42 Common Core Completed — On to the specialisation 🚀</em>
 </p>
 
 ---
@@ -87,9 +93,9 @@ Here are a few projects I'm proud of from my 42 journey and beyond:
 Let's geek out together! Find me on:
 
 <p align="left">
-  <a href="https://www.facebook.com/manu.rabenj" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/manu.rabenj" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" height="50" width="50" /></a>
 </p>
 
 ---
