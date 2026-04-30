@@ -20,7 +20,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 
 ---
 
-## 🎯 Recent Contributions
+## <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="40" align="center">&nbsp;Recent Contributions
 
 <p align="center">
   <img src="https://github.com/NingenUman/NingenUman/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake" width="600">
