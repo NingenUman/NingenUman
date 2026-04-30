@@ -13,7 +13,7 @@
 
 Hey there! I'm a dedicated developer honing my craft at [42](https://www.42.fr/), having successfully completed the rigorous Common Core curriculum. I love experimenting with code, learning new technologies, and building projects that solve real-world problems. When I'm not debugging or dreaming in C++ / Python, you can find me exploring the vast tech landscape or sketching ideas for my next big project.
 
-- 🌱 **Currently mastering**: Networking, System Administration, and C++
+- 🌱 **Currently mastering**: Python, C++, and cybersecurity concepts
 - 💡 **Passionate about**: Creating efficient, elegant solutions and learning new tools
 - 📫 **Reach me at**: [manoarabenja@gmail.com](mailto:manoarabenja@gmail.com)
 - 🎯 **Goal**: To craft impactful software and leave a mark in the tech world
