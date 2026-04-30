@@ -9,13 +9,7 @@
 
 ---
 
-## 🚀 About Me
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc1NDkxMDgsIm5iZiI6MTc3NzU0ODgwOCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDMwVDExMzMyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyNWI4OWIyMTZhMGMzODRiMzQ2NjkyMzRkNGM5NWJjNjVkOWFjMzdlNzg2NTg1MDAzM2IxY2ZmNTk0ZDczYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.PP-HN6r7T-3grxtxrWV6ODcYMbiyY8s6QaByOVEyEqU" alt="User Image" width="400"
-       style="border-radius: 600px; border: 4px solid #4A90E2; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-</p>
-
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="40" align="center">&nbsp;About Me
 
 Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving deep into the art & science of programming. I love experimenting with code, learning new tech, and building projects that spark joy and solve problems. When I'm not debugging or dreaming in C++, you can find me exploring the vast world of tech or sketching ideas for my next big project.
 
