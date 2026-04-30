@@ -127,7 +127,7 @@ Let's geek out together! Find me on:
 
 ---
 
-## <img src="./assets/octocat-1777555874238.png" width="40" align="center">&nbsp; Fun Facts
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="40" align="center">&nbsp; Fun Facts
 
 - <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="40" align="center"> Coffee is my coding fuel — black, no sugar.
 - <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" width="40" align="center"> Always reading up on the latest tech trends to stay ahead of the curve.
