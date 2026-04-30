@@ -116,8 +116,7 @@ Here are a few projects I'm proud of from my 42 journey and beyond:
 
 ---
 
-## 📱 Connect with Me
-
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40" align="center">&nbsp;Connect with Me
 Let's geek out together! Find me on:
 
 <p align="left">
@@ -128,7 +127,7 @@ Let's geek out together! Find me on:
 
 ---
 
-## 🌟 Fun Facts
+## <img src="./assets/octocat-1777555874238.png" width="40" align="center">&nbsp; Fun Facts
 
 - <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="40" align="center"> Coffee is my coding fuel — black, no sugar.
 - <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" width="40" align="center"> Always reading up on the latest tech trends to stay ahead of the curve.
