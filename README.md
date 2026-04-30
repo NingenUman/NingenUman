@@ -103,23 +103,19 @@ Here’s the tech stack I’m wielding and sharpening:
 Here are a few projects I'm proud of from my 42 journey and beyond:
 - **[ft_transcendence]**  
   *Description*: A full-stack web application delivering a real-time game experience inside a social platform. Users can register securely, play matches in the browser, manage friendships, chat, and track profile progression.  
-  *Tech Stack*: TypeScript, NestJS, Vue/React, WebSockets  
-  *Repo*: [https://github.com/arabeman/transcendence]
+  *Tech Stack*: Vite, React, TypeScript, FastAPI, SQLModel / PostgreSQL, Colyseus, Three.js / React Three Fiber / Rapier, Docker + Nginx
 
 - **[webserv]**  
   *Description*: A custom HTTP/1.1 server implemented in C++98 using non-blocking I/O and multiplexing to handle multiple clients concurrently, complete with CGI routing.  
   *Tech Stack*: C++, Makefile, Sockets  
-  *Repo*: [https://github.com/mr-akoton/webserv]
 
 - **[Cub3D]**  
   *Description*: A C-based project where you build a Wolfenstein 3D-like game, focusing on raycasting and rendering.  
   *Tech Stack*: C, Makefile, Minilibx  
-  *Repo*: [https://github.com/NingenUman/Cub3D_42]
 
 - **[so_long]**  
   *Description*: A C-based project where you create a 2D game, using Minilibx.  
   *Tech Stack*: C, Makefile, Minilibx  
-  *Repo*: [https://github.com/NingenUman/so_long42]
 
 *Want to see more? Check out my [Repositories](https://github.com/NingenUman?tab=repositories)!*
 
