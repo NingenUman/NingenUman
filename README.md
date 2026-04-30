@@ -59,7 +59,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 </p>
 
 <p align="center">
-  <em>Successfully completed the 42 Common Core! On to the Specialisation🎉</em>
+  <em>Successfully completed the 42 Common Core! 🎉 Next stop: Specialisation! 🚀</em>
 </p>
 
 ---
