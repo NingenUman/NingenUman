@@ -32,8 +32,7 @@ Hey there! I'm a curious coder-in-training at [42](https://www.42.fr/), diving d
 
 ---
 
-## 📊 GitHub Stats
-
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="40" align="center">&nbsp; GitHub Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/NingenUman/NingenUman/metrics/github-metrics.svg" alt="NingenUman's GitHub Stats" width="600"/>
 </p>
